@@ -3,6 +3,9 @@
 This service demonstrates the operation of a Kafka producer. It receives an object through a REST controller, processes it, and sends a PaymentCreatedEvent object to the Kafka broker.
 In this Git repository, you can find the [NotificationMicroservice](https://github.com/sakovolga/NotificationMicroservice), which is a Kafka consumer.
 
+## How does it work? 
+You can watch an explanation on our YouTube channel [JavaRangers](https://www.youtube.com/watch?v=1zD0GLVafkg&t=227s)
+
 ## Some commands for working with the Kafka message broker.
 
 ```jshelllanguage
